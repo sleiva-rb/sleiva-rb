@@ -1,4 +1,4 @@
-![](typing.gif)
+![](https://github.com/sleiva-rb/sleiva-rb/blob/master/typing.gif)
 
 <!--
 **sleiva-rb/sleiva-rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
